@@ -1,4 +1,5 @@
 # Abbreviations
+
 1.  GNU
     GNU is a recursive acronym for "GNU's Not Unix".
 2.  GCC
