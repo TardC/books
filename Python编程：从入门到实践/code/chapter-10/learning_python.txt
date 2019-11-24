@@ -1,0 +1,7 @@
+In Python you can learn data type.
+In Python you can learn calculation.
+In Python you can learn roll.
+In Python you can learn control statement.
+In Python you can learn function.
+In Python you can learn class.
+In Python you can learn file.
